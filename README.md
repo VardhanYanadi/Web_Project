@@ -1,1 +1,1 @@
-# Web_Project
+An online examination system is used to simplify the examination process by reducing the manual work. It reduces the risk of human errors by completely digitising the examination process. It is also a cost-effective and time-saving method of conducting examinations.
